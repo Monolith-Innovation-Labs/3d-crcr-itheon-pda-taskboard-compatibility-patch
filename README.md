@@ -2,6 +2,8 @@
 Patch that scales PDA tabs to make space for two new buttons. One for Taskboard and the second for Chat.
 ![image](https://github.com/user-attachments/assets/cafbb53f-d92d-46a2-9971-b48194f3a03d)
 
+# [Download](https://github.com/Monolith-Innovation-Labs/3d-crcr-itheon-pda-taskboard-compatibility-patch/releases)
+
 # Required mods
 This path needs original mods to work correctly.
 1. CRCR [by AnchorPoint](https://github.com/itsAnchorpoint/Chernobyl-Relay-Chat-Rebirth) or [by Brzys](https://github.com/8r2y5/Chernobyl-Relay-Chat-Rebirth)
